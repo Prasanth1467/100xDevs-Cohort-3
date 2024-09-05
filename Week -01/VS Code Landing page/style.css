@@ -1,0 +1,17 @@
+.navbar{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.banner{
+    padding: 20px;
+}
+.down{
+    padding: 8px 25px; 
+    color: white;
+    background-color: #0072be;
+    border-width: 0px;
+    border-radius: 6px;
+    font-weight: bold;
+}
